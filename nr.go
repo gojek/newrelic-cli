@@ -14,7 +14,7 @@
 
 package main
 
-import "github.com/IBM/newrelic-cli/cmd"
+import "github.com/gojek/newrelic-cli/cmd"
 
 func main() {
 	cmd.Execute()

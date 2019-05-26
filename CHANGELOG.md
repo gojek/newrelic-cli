@@ -1,5 +1,9 @@
 # Change Log
 
+<a name="0.1.9"></a>
+# [0.1.9](https://github.com/gojek/newrelic-cli/compare/0.1.8...0.1.9) (2019-05-26)
+* Added upsert functionality for alerts conditions
+
 <a name="0.1.8"></a>
 # [0.1.8](https://github.com/IBM/newrelic-cli/compare/0.1.7...0.1.8) (2018-12-19)
 

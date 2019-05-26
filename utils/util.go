@@ -22,7 +22,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/IBM/newrelic-cli/newrelic"
+	"github.com/gojek/newrelic-cli/newrelic"
 )
 
 // GetNewRelicClient returns a NewRelicClient, if env var NEW_RELIC_APIKEY is set
